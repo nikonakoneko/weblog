@@ -15,4 +15,7 @@ continuerai dans n'importe quelle autre dialecte indoeuropéen.
 - **¿Por qué 「猫」?**
 - *Per çò que los cats negres agaitan lo patron dempuèi los maquis*
 
+- **Però il giapponese non è indoeuropeo…**
+- Tant me fot! I això que tu dius tampoc és cap pregunta… çò ací és una **F·A·Q**i, avec un gros **Q** de **Questions**.
+
 *wip wip wip*
