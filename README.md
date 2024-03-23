@@ -13,9 +13,14 @@ continuerai dans n'importe quelle autre dialecte indoeuropéen.
 ## Foire aux questions
 
 - **¿Por qué 「猫」?**
-- *Per çò que los cats negres agaitan lo patron dempuèi los maquis*
+   - *Per çò que los cats negres agaitan lo patron dempuèi los maquis*
 
 - **Però il giapponese non è indoeuropeo…**
-- Tant me fot! I això que tu dius tampoc és cap pregunta… çò ací és una **F·A·Q**i, avec un gros **Q** de **Questions**.
+   - Tant me fot! I això que tu dius tampoc és cap pregunta… çò ací és una **F·A·Q**i, avec un gros **Q** de **Questions**.
+
+---
+
+- **Pourquoi ce site ouèb?**
+   - Pour essayer de trouver d'autres membres de la diaspora de licornes de l'internet.
 
 *wip wip wip*
