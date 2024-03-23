@@ -9,6 +9,8 @@ continuerai dans n'importe quelle autre dialecte indoeuropéen.
 - Com n'[Oswald Spengler](https://en.wikipedia.org/w/index.php?title=Oswald_Spengler&oldid=1213605401)
   ho va ser, aspir a esdevenir un *polímata*. Mas, contràriament a el, **no me
   plai pas** el *Nationalsozialismus*.
+- So wie der Richard Stallman, ich die Proprietäre Software hasse. Mais,
+  [contrairement à lui](Proprietäre Software), je ne confie pas en l'État.
 
 ## Foire aux questions
 
