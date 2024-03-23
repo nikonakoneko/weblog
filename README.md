@@ -4,7 +4,7 @@
 
 I am some random nerd Geekin'n'Hackin (sex, drugs and segmentation faults!)
 around and I don't really like to speak English dialect, this is pourquoi je
-continuerai dans n'importe quelle autre [dialecte
+continuerai dans n'importe quel autre [dialecte
 indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanTree.svg).
 
 - Com n'[Oswald
