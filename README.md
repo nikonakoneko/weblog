@@ -39,7 +39,7 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
 
 # Journal pas tant journalier
 
-## OpenZFS & Linux & virtiofs & DAX = false 
+## OpenZFS & Linux & virtiofs & DAX = 0 
 
 _Pissed off_ comme ils disent. Je ne sais même plus pourquoi j'ai voulu formater
 mes disques durs avec ZFS… Tot i que tingui unes quantes funcionalitats molt
