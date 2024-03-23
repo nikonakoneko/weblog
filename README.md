@@ -48,7 +48,7 @@ cabdal per al meu _cāsus ūsūs_.
 Je m'explique. Mon espace de stockage est principalement dedié à des machines
 virtuelles et je préfère utiliser virtiofs pour qu'elles puissent y accéder
 plutôt que d'avoir recours à l'interface de bloque virtio. Afin de
-court-circuiter des niveaux d'abstractions redondant entre l'hôte et l'invité, —
+court-circuiter des niveaux d'abstractions redondants entre l'hôte et l'invité, —
 et gagner ainsi en performance — virtiofs peut faire usage de l'interface
 d'accés directe à la memoire (DAX) de Linux _à condition que le système de
 fichier sous-jacent à virtiofs en soit capable_… bien évidement, fallait donc
