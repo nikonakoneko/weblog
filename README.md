@@ -1,4 +1,4 @@
-# 二コナコ猫 — Herzlich wilkommen auf der Seite der Nikonako Katze!
+# Herzlich wilkommen auf der Seite der Nikonako Katze!
 
 ## (Re)introducing me and… this thing you are reading right now
 
