@@ -16,14 +16,14 @@ continuerai dans n'importe quelle autre dialecte indoeuropéen.
    - *Per çò que los cats negres agaitan lo patron dempuèi los maquis*
 
 - **Però il giapponese non è indoeuropeo…**
-   - Tant me fot! I això que tu dius tampoc és cap pregunta… çò ací és una **F·A·Q**i, avec un gros **Q** de **Questions**.
+   - Tant me fot! I això que tu dius tampoc és cap pregunta… çò ací és una **F·A·Q**, avec un gros **Q** de **Questions**.
 
 ---
 
 - **Pourquoi ce… heu.. site ouèb… un peu… craignos?**
    - Pour essayer de trouver d'autres membres de la diaspora de licornes de la réseausphère.
 
-- **Tu sais que t'es vraiment chelou, mec**
+- **Tu sais que t'es vraiment chelou, mec?**
    - I tant, i tant. Quaero mihi similes et adiungor pravis!
 
 *wip wip wip*
