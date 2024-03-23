@@ -31,7 +31,7 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
    - Pour essayer de trouver d'autres membres de la diaspora de licornes de la
      réseausphère.
 
-- **Tu sais que t'es vraiment chelou, mec?**
+- **Tu sais que t'es trop chelou, mec?**
    - I tant, i tant. Quaero mihi similes et adiungor pravis!
 
 *wip wip wip*
