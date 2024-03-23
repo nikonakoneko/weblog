@@ -20,7 +20,10 @@ continuerai dans n'importe quelle autre dialecte indoeuropéen.
 
 ---
 
-- **Pourquoi ce site ouèb?**
-   - Pour essayer de trouver d'autres membres de la diaspora de licornes de l'internet.
+- **Pourquoi ce… heu.. site ouèb… un peu… craignos?**
+   - Pour essayer de trouver d'autres membres de la diaspora de licornes de la réseausphère.
+
+- **Tu sais que t'es vraiment chelou, mec**
+   - I tant, i tant. Quaero mihi similes et adiungor pravis!
 
 *wip wip wip*
