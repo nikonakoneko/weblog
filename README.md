@@ -19,7 +19,7 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
 ## Foire aux questions
 
 - **¿Por qué 「猫」?**
-   - *Per çò que los cats negres agaitan lo patron dempuèi los maquis*
+   - *Per çò que, dins de los maquis, los cats negres agaitn lo can canalha de patro*
 
 - **Però il giapponese non è indoeuropeo…**
    - Tant me fot! I això que tu dius tampoc és cap pregunta… çò ací és una
