@@ -43,7 +43,7 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
 _Pissed off_ comme ils disent. Je ne sais même plus pourquoi j'ai voulu formater
 mes disques durs avec ZFS… Tot i que tingui unes quantes funcionalitats molt
 gaudibles, — que, de fet, n'estic gaudint llur (ab)ús — me'n falta una prou
-capbdall per al meu _cāsus ūsūs_.
+cabdal per al meu _cāsus ūsūs_.
 
 Je m'explique. Mon espace de stockage est principalement dedié à des machines
 virtuelles et je préfère utiliser virtiofs pour qu'elles puissent y accéder
