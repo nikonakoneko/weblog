@@ -38,7 +38,7 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
 
 ## Journal pas tant journalier
 
-### OpenZFS & Linux & virtiofs & DAX
+### OpenZFS & Linux & virtiofs & DAX = false 
 
 _Pissed off_ comme ils disent. Je ne sais même plus pourquoi j'ai voulu formater
 mes disques durs avec ZFS… Tot i que tingui unes quantes funcionalitats molt
@@ -50,7 +50,7 @@ virtuelles et je préfère utiliser virtiofs pour qu'elles puissent y accéder
 plutôt que d'avoir recours à l'interface de bloque de virtio. Puis, afin de
 court-circuiter des couches d'abstractions redondantes entre l'hôte et l'invité,
 — et gagner ainsi en performance — virtiofs peut faire usage de l'interface
-d'accés directe à la memoire (DAX) de Linux _à condition que le système de
+d'accés directe à la mémoire (DAX) de Linux _à condition que le système de
 fichier sous-jacent à virtiofs en soit capable_… bien évidement, fallait donc
 que ce ne soit [pas le cas avec
 OpenZFS](https://github.com/openzfs/zfs/issues/9986)… ¡Me cago en todo!
