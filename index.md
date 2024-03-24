@@ -50,7 +50,7 @@ mes disques durs avec ZFS… Tot i que tingui unes quantes funcionalitats molt
 gaudibles, — que, de fet, n'estic gaudint llur (ab)ús — me'n falta una prou
 cabdal per al meu _cāsus ūsūs_.
 
-Je m'explique. Mon espace de stockage est principalement dedié à des machines
+Je m'explique. Mon espace de stockage est principalement dédié à des machines
 virtuelles et je préfère utiliser virtiofs pour qu'elles puissent y accéder
 plutôt que d'avoir recours à l'interface de bloque de virtio. Puis, afin de
 court-circuiter des couches d'abstractions redondantes entre l'hôte et l'invité,
