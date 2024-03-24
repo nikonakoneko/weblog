@@ -56,6 +56,6 @@ plutôt que d'avoir recours à l'interface de bloque de virtio. Puis, afin de
 court-circuiter des couches d'abstractions redondantes entre l'hôte et l'invité,
 — et gagner ainsi en performance — virtiofs peut faire usage de l'interface
 d'accés directe à la mémoire (DAX) de Linux _à condition que le système de
-fichier sous-jacent à virtiofs en soit capable_… bien évidement, fallait donc
+fichier qui lui est sous-jacent en soit capable_… bien évidement, fallait donc
 que ce ne soit [pas le cas avec
 OpenZFS](https://github.com/openzfs/zfs/issues/9986)… ¡Me cago en todo!
