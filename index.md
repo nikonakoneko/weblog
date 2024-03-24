@@ -28,7 +28,7 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
      canalha de **patron***
 
 - **Però il giapponese non è indoeuropeo…**
-   - Tant me fot! I això que tu dius tampoc és cap pregunta… ço ací és una
+   - Tant se me'n fot! I això que tu dius tampoc és cap pregunta… ço ací és una
      **F·A·Q**, avec un gros **Q** de **Questions**.
 
 ---
