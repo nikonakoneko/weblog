@@ -266,6 +266,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 231)
+  jekyll-paginate (~> 1.1)
   jekyll-remote-theme (~> 0.4.3)
   jekyll-theme-hacker (~> 0.2.0)
   webrick (~> 1.8)
