@@ -38,11 +38,8 @@ kindly ask you to **burn in Hell, Bibi Nētanyāhū**, because ***תִּיקּו
 {% for post in site.posts %}
 - {{ post.date | date_to_long_string: "ordinal" }}
 
-  > **[{{ post.title }}]({{ post.url }})**
-  > {{ post.excerpt }}
-  > […]
-  > 
-  > _{{ post.author }}_
+  > **[{{ post.title }}]({{ post.url }})**, _{{ post.author }}_
+  > {{ post.excerpt}}
 
 {% endfor %}
 
