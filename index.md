@@ -21,15 +21,15 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
   Software](https://de.wikipedia.org/wiki/Propriet%C3%A4re_Software) **hassen**.
   Mais, [contrairement à lui](Proprietäre Software), nous ne **confions pas** en
   l'***état*** des choses.
-- Tout comme l'**ange de l'histoire** de Walter Benjamin, **où les autres voyent
+- Tout comme l'***ange de l'histoire*** de Walter Benjamin, **où les autres voyent
   progrès** dans l'avancement historique, nous autres, **nous ne voyons qu'une
   grande catastrophe** détruisant tout sur son passage.
 - Com s'**eternal retorn** d'en Nietzsche, en compte d'un trajecte recte, per a
   naltros, sa Història s'assembla més aviat a una **espiral: Sempre tornam,
   diferents, idò no avançam**.
-- A **good Jew** has **no human king**; a **good Jew** is an **anarchist Jew**
-([1 Samuel 8:10-18](https://www.sefaria.org/I_Samuel.8.10-18)). So, please, burn
-in Hell, Nētanyāhū, because תִּיקּוּן עוֹלָם.
+- A **good Jew** has ***no human king***; a **good Jew** is an **anarchist Jew**
+([1 Samuel 8:10-18](https://www.sefaria.org/I_Samuel.8.10-18)). So, please, **burn
+in Hell, Nētanyāhū**, because ***תִּיקּוּן עוֹלָם***.
 
 ---
 
