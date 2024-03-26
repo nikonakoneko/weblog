@@ -4,7 +4,7 @@ layout: default
 
 # **Herzlich wilkommen auf der Seite der Nikonako Katzen!**
 
-## Quae nikonakōrum fēlēs sunt?
+## QVAE NIKONAKŌRVM FĒLĒS SVNT?
 
 We are a feline collective of **random unicornic nerd cats** Geekin'n'Hackin
 around (mice, drugs and segmentation faults!). We **don't** really **like** to
@@ -21,6 +21,13 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
   Software](https://de.wikipedia.org/wiki/Propriet%C3%A4re_Software) **hassen**.
   Mais, [contrairement à lui](Proprietäre Software), nous ne **confions pas** en
 l'***état*** des choses.
+- Tout comme l'ange de l'histoire de Walter Benjamin, où les autres voyent
+  progrès dans l'avancement historique, nous, nous ne voyons qu'un grande
+  catastrophe détruisant tout sur son passage.
+- Com s'eternal retorn d'en Nietzsche, en compte d'un trajecte recte, per a
+  naltros, sa Història s'assembla més aviat a una espiral: Sempre tornam,
+  diferents, idò no avançam.
+- A good Jew is an anarchist Jew ([1 Samuel 8:10-18](https://www.sefaria.org/I_Samuel.8.10-18))
 
 ---
 
