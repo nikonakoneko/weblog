@@ -6,7 +6,7 @@ layout: default
 
 ## QVAE NIKONAKŌRVM FĒLĒS SVNT?
 
-We are a feline MPD-collective of **random unicornic nerd cats** Geekin'n'Hackin
+We are a feline MPD-collective of **random unicornic nerd-cats** Geekin'n'Hackin
 around (mice, drugs and segmentation faults!). We **don't** really **like** to
 speak **English dialect**, this is pourquoi nous feront principalement usage de
 **n'importe quel autre [dialecte
@@ -27,8 +27,9 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
 - Com s'**eternal retorn** d'en Nietzsche, en compte d'un trajecte recte, per a
   naltros, sa Història s'assembla més aviat a una **espiral: Sempre tornam,
   diferents, idò no avançam**.
-- A **good Jew** is an **anarchist Jew** ([1 Samuel
-  8:10-18](https://www.sefaria.org/I_Samuel.8.10-18))
+- A **good Jew** has **no human king**; a **good Jew** is an **anarchist Jew**
+([1 Samuel 8:10-18](https://www.sefaria.org/I_Samuel.8.10-18)). So, please, burn
+in Hell, Nētanyāhū, becaus תִּיקּוּן עוֹלָם.
 
 ---
 
