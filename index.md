@@ -22,8 +22,8 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
   Mais, [contrairement à lui](Proprietäre Software), nous ne **confions pas** en
   l'***état*** des choses.
 - Tout comme l'**ange de l'histoire** de Walter Benjamin, **où les autres voyent
-  progrès** dans l'avancement historique, nous, **nous ne voyons qu'un grande
-  catastrophe** détruisant tout sur son passage.
+  progrès** dans l'avancement historique, nous autres, **nous ne voyons qu'un
+  grande catastrophe** détruisant tout sur son passage.
 - Com s'**eternal retorn** d'en Nietzsche, en compte d'un trajecte recte, per a
   naltros, sa Història s'assembla més aviat a una **espiral: Sempre tornam,
   diferents, idò no avançam**.
