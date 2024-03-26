@@ -14,28 +14,28 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
 
 - Com n'[Oswald
   Spengler](https://en.wikipedia.org/w/index.php?title=Oswald_Spengler&oldid=1213605401)
-  ho va ser, aspiram a esdevenir-nos uns ***polímates***. Mas, contràriament a el, **no
-  nos plai pas** el ***Nationalsozialismus***.
+  ho va ser, aspiram a esdevenir-nos uns ***polímates***. Mas, contràriament a
+  el, **no nos plai pas** el ***Nationalsozialismus***.
 - So wie der [Richard Stallman](https://de.wikipedia.org/wiki/Richard_Stallman),
   wir die [Proprietäre
   Software](https://de.wikipedia.org/wiki/Propriet%C3%A4re_Software) **hassen**.
   Mais, [contrairement à lui](Proprietäre Software), nous ne **confions pas** en
-l'***état*** des choses.
-- Tout comme l'ange de l'histoire de Walter Benjamin, où les autres voyent
-  progrès dans l'avancement historique, nous, nous ne voyons qu'un grande
-  catastrophe détruisant tout sur son passage.
-- Com s'eternal retorn d'en Nietzsche, en compte d'un trajecte recte, per a
-  naltros, sa Història s'assembla més aviat a una espiral: Sempre tornam,
-  diferents, idò no avançam.
-- A good Jew is an anarchist Jew ([1 Samuel 8:10-18](https://www.sefaria.org/I_Samuel.8.10-18))
+  l'***état*** des choses.
+- Tout comme l'**ange de l'histoire** de Walter Benjamin, **où les autres voyent
+  progrès** dans l'avancement historique, nous, **nous ne voyons qu'un grande
+  catastrophe** détruisant tout sur son passage.
+- Com s'**eternal retorn** d'en Nietzsche, en compte d'un trajecte recte, per a
+  naltros, sa Història s'assembla més aviat a una **espiral: Sempre tornam,
+  diferents, idò no avançam**.
+- A **good Jew** is an **anarchist Jew** ([1 Samuel
+  8:10-18](https://www.sefaria.org/I_Samuel.8.10-18))
 
 ---
 
 # **Journal pas tant journalier**
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+- [{{ post.title }}]({{ post.url }}) {% endfor %}
 
 ---
 
@@ -47,6 +47,7 @@ l'***état*** des choses.
 de can de **patron**.*
 
 ## Però il giapponese non è indoeuropeo…
+
 Tant se'ns en fot! I això que tu dius tampoc és cap pregunta… ço ací és una
 **F·A·Q**, avec un gros **Q** de **Questions**.
 
@@ -69,7 +70,7 @@ Tant se'ns en fot! I això que tu dius tampoc és cap pregunta… ço ací és u
     - Latin.
 
 - And I also have a basic and experimental generic romance languages offline
-decoder.
+  decoder.
 
 On the long term, we aim at implementing support — at least, basic support — for
 most western PIE dialects on all our electro-cats.
@@ -81,4 +82,4 @@ de la **réseausphère**.
 
 ## Tu sais que t'es trop chelou, mec?
 
-I tant, i tant. Quaero **mihi similes** et **adiungor pravis**!
+Idò, idò. Quaero **mihi similes** et **adiungor pravis**!
