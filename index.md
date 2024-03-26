@@ -75,7 +75,7 @@ Tant se'ns en fot! I això que tu dius tampoc és cap pregunta… ço ací és u
     - Languadocian;
     - Latina.
 
-- And I also have a basic and experimental generic romance languages offline
+- And we also have a basic and experimental generic romance languages offline
   decoder.
 
 On the long term, we aim at implementing support — at least, basic support — for
