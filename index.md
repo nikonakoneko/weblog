@@ -73,7 +73,7 @@ Tant se'ns en fot! I això que tu dius tampoc és cap pregunta… ço ací és u
 
 - For slow unaccelerated offline processing we have experimental codecs for:
     - Languadocian;
-    - Latin.
+    - Latina.
 
 - And I also have a basic and experimental generic romance languages offline
   decoder.
