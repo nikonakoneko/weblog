@@ -4,7 +4,7 @@ layout: default
 
 # **Herzlich wilkommen auf der Seite der Nikonako Katzen!**
 
-## QVAE NIKONAKŌRVM FĒLĒS SVNT?
+## QVAE FĒLĒS NIKONAKŌRVM SVNT?
 
 We are a feline MPD-collective of **random unicornic nerd-cats** Geekin'n'Hackin
 around (mice, drugs and segmentation faults!). We **don't** really **like** to
