@@ -36,7 +36,15 @@ in Hell, Nētanyāhū, because תִּיקּוּן עוֹלָם.
 # **Journal pas tant journalier**
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) {% endfor %}
+- {{ post.date | date_to_long_string: "ordinal" }}
+
+  > **[{{ post.title }}]({{ post.url }})**
+  > {{ post.excerpt }}
+  > […]
+  > 
+  > _{{ post.author }}_
+
+{% endfor %}
 
 ---
 
