@@ -28,8 +28,8 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
   naltros, sa Història s'assembla més aviat a una **espiral: Sempre tornam,
   diferents, idò no avançam**.
 - A **good Jew** has ***no human king***; a **good Jew** is an **anarchist Jew**
-([1 Samuel 8:10-18](https://www.sefaria.org/I_Samuel.8.10-18)). So, please, **burn
-in Hell, Nētanyāhū**, because ***תִּיקּוּן עוֹלָם***.
+([1 Samuel 8:10-18](https://www.sefaria.org/I_Samuel.8.10-18)). So, please, I
+kindly ask you to **burn in Hell, Bibi Nētanyāhū**, because ***תִּיקּוּן עוֹלָם***.
 
 ---
 
