@@ -3,11 +3,11 @@ layout: post
 author: Felis linuxensis
 title:  OpenZFS & Linux & virtiofs & DAX = 0
 categories:
-- OperatingSystem
-- FileSystem
-tags:
+- Computer
 - Linux
+tags:
 - ZFS
+- storage
 - virtio
 - virtualisation
 ---
