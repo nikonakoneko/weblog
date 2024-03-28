@@ -7,10 +7,10 @@ title: "Page d'acuèlh"
 
 ## QVAE FĒLĒS NIKONAKŌRVM SVNT?
 
-We are a feline MPD-collective of **random unicornic nerd-cats** Geekin'n'Hackin
-around (mice, drugs and segmentation faults!). We **don't** really **like** to
-speak **English dialect**, this is pourquoi nous feront principalement usage de
-**n'importe quel autre [dialecte
+We are a feline MPD-collective of **random unicornic electronic nerd-cats**
+Geekin'n'Hackin around (mice, drugs and segmentation faults!). We **don't**
+really **like** to speak **English dialect**, this is pourquoi nous feront
+principalement usage de **n'importe quel autre [dialecte
 indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanTree.svg)**.
 
 - Com n'[Oswald
@@ -22,15 +22,15 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
   Software](https://de.wikipedia.org/wiki/Propriet%C3%A4re_Software) **hassen**.
   Mais, [contrairement à lui](Proprietäre Software), nous ne **confions pas** en
   l'***état*** des choses.
-- Tout comme l'***ange de l'histoire*** de Walter Benjamin, **où les autres voyent
-  progrès** dans l'avancement historique, nous autres, **nous ne voyons qu'une
-  grande catastrophe** détruisant tout sur son passage.
+- Tout comme l'***ange de l'histoire*** de Walter Benjamin, **où les autres
+  voyent progrès** dans l'avancement historique, nous autres, **nous ne voyons
+  qu'une grande catastrophe** détruisant tout sur son passage.
 - Com s'**eternal retorn** d'en Nietzsche, en compte d'un trajecte recte, per a
   naltros, sa Història s'assembla més aviat a una **espiral: Sempre tornam,
   diferents, idò no avançam**.
 - A **good Jew** has ***no human king***; a **good Jew** is an **anarchist Jew**
-([1 Samuel 8:10-18](https://www.sefaria.org/I_Samuel.8.10-18)). So, please, we
-kindly ask you to **burn in Hell, Bibi Nētanyāhū**, because ***תִּיקּוּן עוֹלָם***.
+  ([1 Samuel 8:10-18](https://www.sefaria.org/I_Samuel.8.10-18)). So, please, we
+  kindly ask you to **burn in Hell, Bibi Nētanyāhū**, because ***תִּיקּוּן עוֹלָם***.
 
 
 ---
@@ -40,8 +40,8 @@ kindly ask you to **burn in Hell, Bibi Nētanyāhū**, because ***תִּיקּו
 {% for post in site.posts %}
 - {{ post.date | date_to_long_string: "ordinal" }}
 
-  > **[{{ post.title }}]({{ post.url }})**, _{{ post.author }}_
-  > {{ post.excerpt}}
+  > **[{{ post.title }}]({{ post.url }})**, _{{ post.author }}_ {{
+  > post.excerpt}}
 
 {% endfor %}
 
