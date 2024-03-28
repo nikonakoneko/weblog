@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Felis linuxensis
+author: Felis linuxana
 title:  OpenZFS & Linux & virtiofs & DAX = 0
 categories:
 - Computer
@@ -13,9 +13,9 @@ tags:
 ---
 
 _Pissed off_, comme ils disent. Je ne sais même plus pourquoi j'ai voulu
-formater mes disques durs avec ZFS… Tot i que tingui unes quantes funcionalitats
-molt gaudibles, — que, de fet, n'estic gaudint llur (ab)ús — me'n falta una prou
-cabdal per a mon _cāsus ūsūs_.
+formater mes disques durs avec ZFS… Tot i que aquest tingui unes quantes
+funcionalitats molt gaudibles, — que, de fet, n'estic gaudint llur (ab)ús — me'n
+falta una prou cabdal per a mon _cāsus ūsūs_.
 
 Je m'explique. Mon espace de stockage est principalement dédié à des machines
 virtuelles et je préfère utiliser

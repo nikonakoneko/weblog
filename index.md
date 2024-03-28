@@ -7,6 +7,18 @@ title: "Page d'acuèlh"
 
 ## QVAE FĒLĒS NIKONAKŌRVM SVNT?
 
+```text
+         ／＞　 フ
+        | 　>　<| 
+      ／` ミ＿ﻌノ 
+     /　　　　 |
+    /　 ヽ　　 ﾉ
+    │　　|　|　|
+ ／ |　  |　|　|
+(￣ ヽ＿_ヽ_)__)
+ ＼二)
+```
+
 We are a feline MPD-collective of **random unicornic electronic nerd-cats**
 Geekin'n'Hackin around (mice, drugs and segmentation faults!). We **don't**
 really **like** to speak **English dialect**, this is pourquoi nous feront
@@ -40,8 +52,9 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
 {% for post in site.posts %}
 - {{ post.date | date_to_long_string: "ordinal" }}
 
-  > **[{{ post.title }}]({{ post.url }})**, _{{ post.author }}_ {{
-  > post.excerpt}}
+  > **[{{ post.title }}]({{ post.url }})**, _{{ post.author }}_
+  >
+  > {{ post.excerpt | strip_html }}
 
 {% endfor %}
 
@@ -61,24 +74,25 @@ Tant se'ns en fot! I això que tu dius tampoc és cap pregunta… ço ací és u
 
 ## What languages can you decode or have a native interface for?
 
-- For real-time processing we have advanced native support for:
+- For **real-time processing** we have advanced native support for:
     - Català;
     - Castellano;
     - Français.
 
-- For best-effort processing we have basic native support for:
+- For **best-effort processing** we have basic native support for:
     - Deutsch;
     - Italiano.
 
-- For offline processing we have hardware accelerated codecs for:
+- For **offline processing** we have **hardware accelerated** codecs for:
     - English.
 
-- For slow unaccelerated offline processing we have experimental codecs for:
+- For **slow unaccelerated offline processing** we have **experimental** codecs
+  for:
     - Languadocian;
     - Latina.
 
-- And we also have a basic and experimental generic romance languages offline
-  decoder.
+- Finaly, we also have a **basic and experimental** _generic romance languages_
+  **offline decoder**.
 
 On the long term, we aim at implementing support — at least, basic support — for
 most western PIE dialects on all our electro-cats.

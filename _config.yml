@@ -13,10 +13,11 @@ exclude:
 - vendor/ruby/
 
 plugins:
+- jekyll-commonmark-ghpages
 - jekyll-remote-theme
 - jekyll-paginate
 remote_theme: pages-themes/hacker@v0.2.0
 paginate: 5
 
-title: ～ＦＢＩ／二コナコ猫～
+title: ⋆˚˖°～ＦＢＩ／二コナコ猫～ฅ(^•ﻌ•^ฅ)𐒡～ﾆｬ-
 description: "Feline Bureau of Investigation / Nikonako Cats"
