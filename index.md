@@ -7,6 +7,12 @@ title: "Page d'acuèlh"
 
 ## QVAE FĒLĒS NIKONAKŌRVM SVNT?
 
+We are a feline MPD-collective of **random unicornic electronic nerd-cats**
+Geekin'n'Hackin around (mice, drugs and segmentation faults!). We **don't**
+really **like** to speak **English dialect**, this is pourquoi nous feront
+principalement usage de **n'importe quel autre [dialecte
+indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanTree.svg)**.
+
 ```text
          ／＞　 フ
         | 　>　<| 
@@ -18,12 +24,6 @@ title: "Page d'acuèlh"
 (￣ ヽ＿_ヽ_)__)
  ＼二)
 ```
-
-We are a feline MPD-collective of **random unicornic electronic nerd-cats**
-Geekin'n'Hackin around (mice, drugs and segmentation faults!). We **don't**
-really **like** to speak **English dialect**, this is pourquoi nous feront
-principalement usage de **n'importe quel autre [dialecte
-indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanTree.svg)**.
 
 - Com n'[Oswald
   Spengler](https://en.wikipedia.org/w/index.php?title=Oswald_Spengler&oldid=1213605401)
