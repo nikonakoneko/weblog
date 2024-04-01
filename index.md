@@ -72,7 +72,7 @@ de can de **patron**.*
 Tant se'ns en fot! I això que tu dius tampoc és cap pregunta… ço ací és una
 **F·A·Q**, avec un gros **Q** de **Questions**.
 
-## What languages can you decode or have a native interface for?
+## What languages can you decode or have got a native interface for?
 
 - For **real-time processing** we have advanced native support for:
     - Català;
