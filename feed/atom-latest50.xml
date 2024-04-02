@@ -14,7 +14,7 @@ layout:
     <!-- <logo></logo> ratio 2:1 -->
     <rights>Creative Commons — CC0 1.0 Universal</rights>
     <subtitle>{{ site.description }}</subtitle>
-    <title>{{ site.title }}</title>
+    <title>{{ site.title }} — latest 50 posts</title>
     <updated>{{ site.posts.first.date | date: "%FT%H:%M:%S-00:00" }}</updated>
 
     {% for post in site.posts limit:50 %}
