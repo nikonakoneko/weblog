@@ -23,6 +23,8 @@ indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanT
  ／ |　  |　|　|
 (￣ ヽ＿_ヽ_)__)
  ＼二)
+
+Figure 1: cute cat haz gone (>.<)
 ```
 
 - Com n'[Oswald
