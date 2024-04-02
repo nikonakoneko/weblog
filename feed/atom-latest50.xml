@@ -27,7 +27,7 @@ layout:
         {% capture category %}{{ category }}/{{ item }}{% endcapture %}
         <category term="{{ category }}"/>
         {% endfor %}
-        <content type="html">{{ post.content | xml_escape }}></content>
+        <content type="html">{{ post.content | xml_escape }}</content>
         <id>{{ site.url  }}{{ post.url }}</id>
         <link rel="alternate" href="{{ post.url }}"/>
         <published>{{ post.date | date: "%FT%H:%M:%S-00:00" }}</published>
