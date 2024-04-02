@@ -51,7 +51,7 @@ Figure 1: cute cat haz gone (>.<)
 
 # **Journal pas tant journalier**
 
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
 - {{ post.date | date_to_long_string: "ordinal" }}
 
   > **[{{ post.title }}]({{ post.url }})**, _{{ post.author }}_
