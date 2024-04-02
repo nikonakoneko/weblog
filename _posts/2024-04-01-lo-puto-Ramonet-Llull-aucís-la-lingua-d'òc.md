@@ -30,7 +30,6 @@ _aucir_[^abc] qui vol dir «matar», el qual es pot llegir també en Llull. I b�
 de pas, podem fer esment del seu anàleg italià: _uccidere_. Tots són descendents
 del llatí _ob- + cadō_ > _occidō_, _occidere_
 
-![el verb auciar en el libre de meravelles de Ramon
-Llull](/assets/img/aucir-llull-meravelles.webp "p. 28, Libre de meravelles, Llull, volum 1, editorial Barcino, Barcelona, 1931")
+![el verb auciar en el libre de meravelles de Ramon Llull](/assets/img/aucir-llull-meravelles.webp "p. 28, Libre de meravelles, Llull, volum 1, editorial Barcino, Barcelona, 1931")
 
 [^abc]: Hac sentit este mot vivent per primer cop escoltant cantar n'Alidé Sans.
