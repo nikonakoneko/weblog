@@ -3,13 +3,14 @@ layout:
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="https://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom">
     <author>
         <name>Felis casualis</name>
     </author>
     <!-- <icon></icon> ratio 1:1 -->
+    <id>{{ site.url }}{{ page.url }}</id>
     <link href="{{ site.url }}"/>
-    <link rel="self" href="{{ page.url }}"/>
+    <link rel="self" href="{{ site.url }}{{ page.url }}"/>
     <!-- <logo></logo> ratio 2:1 -->
     <rights>Creative Commons — CC0 1.0 Universal</rights>
     <subtitle>{{ site.description }}</subtitle>
@@ -27,7 +28,7 @@ layout:
         <category term="{{ category }}"/>
         {% endfor %}
         <content type="html">{{ post.content | xml_escape }}></content>
-        <id>{{ post.url | escape }}</id>
+        <id>{{ site.url  }}{{ post.url }}</id>
         <link rel="alternate" href="{{ post.url }}"/>
         <published>{{ post.date | date: "%FT%H:%M:%S-00:00" }}</published>
         <summary type="html">{{ post.excerpt | xml_escape }}></summary>
