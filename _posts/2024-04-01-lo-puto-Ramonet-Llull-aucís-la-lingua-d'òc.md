@@ -27,8 +27,8 @@ tant de l'occità, inclós modern.
 
 Per exemple, tant l'aranès com altres dialectes d'òc, tenen el verb
 _aucir_[^abc] qui vol dir «matar», el qual es pot llegir també en Llull (cf.
-figura 1). I bé, de pas, podem fer esment del seu anàleg italià: _uccidere_.
-Tots són descendents del llatí _ob- + cadō_ > _occidō_, _occidere_
+figura&nbsp;1). I bé, de pas, podem fer esment del seu anàleg italià: _uccidere_.
+Tots són descendents del llatí _ob-&nbsp;+&nbsp;cadō_ > _occidō_, _occidere_
 
 {% include figure.html
     alt="el verb auciar en el libre de meravelles de Ramon Llull"
