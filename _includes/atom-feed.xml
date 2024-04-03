@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+{% assign  default_author = include.default_author | default: "Felis casualis" %}
+{% capture feed_url %}{{ site.url }}{{ page.url }}{% endcapture %}
+{% assign  icon  = include.icon  | default: false %}
+{% assign  posts = site.posts %}
+{% assign  limit = include.limit | default: posts.size - 1 %}
+{% assign  logo  = include.logo  | default: false %}
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+        <name>{{ default_author }}</name>
+    </author>
+    {% if icon %}<icon>{{ icon | escape }}</icon>{% endif %}
+    <id>{{ feed_url }}</id>
+    <link href="{{ site.url }}"/>
+    <link rel="self" href="{{ feed_url }}"/>
+    {% if logo %}<logo>{{ logo | escape }}</logo>{% endif %}
+    <rights>Creative Commons — CC0 1.0 Universal</rights>
+    <subtitle>{{ site.description }}</subtitle>
+    <title>{{ site.title }} — latest {{ limit }} posts</title>
+    <updated>{{ posts.first.date | date: "%FT%H:%M:%S-00:00" }}</updated>
+    {% for post in posts %}
+    {% if forloop.index > posts.size  %}{% break %}{% endif %}
+    {% assign category = "" %}
+    <entry>
+        <author>
+            <name>{{ post.author }}</name>
+        </author>
+        {% for item in post.categories %}
+        {% capture category %}{{ category }}/{{ item }}{% endcapture %}
+        <category term="{{ category }}"/>
+        {% endfor %}
+        <content type="html">{{ post.content | xml_escape }}</content>
+        <id>{{ site.url  }}{{ post.url }}</id>
+        <link rel="alternate" href="{{ post.url }}"/>
+        <published>{{ post.date | date: "%FT%H:%M:%S-00:00" }}</published>
+        <summary type="html">{{ post.excerpt | xml_escape }}></summary>
+        <title>{{ post.title | escape }}</title>
+        {% if post.lastupdated | size >= 8 %}
+            {% assign lastupdate = post.lastupdated %}
+        {% else %}
+            {% assign lastupdate = post.date %}
+        {% endif %}
+        <updated>{{ lastupdate | date: "%FT%H:%M:%S-00:00" }}</updated>
+    </entry>
+    {% endfor %}
+</feed>
