@@ -14,11 +14,11 @@ principalement usage de **n'importe quel autre [dialecte
 indoeuropéen](https://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanTree.svg)**.
 
 ```text
-         ／＞　 フ
-        | 　>　<| 
-      ／` ミ＿ﻌノ 
-     /　　　　 |
-    /　 ヽ　　 ﾉ
+         ／＞　 フ        ＿
+        | 　>　<|  ／ ￣     ￣ ＼
+      ／` ミ＿ﻌノ<      (>.<)    |
+     /　　　　 |   ＼ ＿      ＿ノ
+    /　 ヽ　　 ﾉ          ￣
     │　　|　|　|
  ／ |　  |　|　|
 (￣ ヽ＿_ヽ_)__)
@@ -36,9 +36,9 @@ Figure 1: cute cat haz gone (>.<)
   Software](https://de.wikipedia.org/wiki/Propriet%C3%A4re_Software) **hassen**.
   Mais, [contrairement à lui](Proprietäre Software), nous ne **confions pas** en
   l'***état*** des choses.
-- Tout comme l'***ange de l'histoire*** de Walter Benjamin, **où les autres
-  voyent progrès** dans l'avancement historique, nous autres, **nous ne voyons
-  qu'une grande catastrophe** détruisant tout sur son passage.
+- Tout comme l'***ange de l'histoire*** de Walter Benjamin, **où _eux_ voyent
+  progrès** dans l'avancement historique, _nous autres_, **nous ne voyons qu'une
+  grande catastrophe** détruisant tout sur son passage.
 - Com s'**eternal retorn** d'en Nietzsche, en compte d'un trajecte recte, per a
   naltros, sa Història s'assembla més aviat a una **espiral: Sempre tornam,
   diferents, idò no avançam**.
