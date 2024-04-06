@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Felis musicalis
-title: Musica en lenga gascona de l'Aran damb l'Alidé Sans
+title: Musica en lenga gascona d'Aran damb Alidé Sans
 categories:
 - Music
 tags:
