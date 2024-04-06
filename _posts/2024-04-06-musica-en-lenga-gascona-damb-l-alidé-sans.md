@@ -40,7 +40,7 @@ d'algunes cançons seves, com en la que heus aquí: **mònstres** e abusos de po
 
 {% capture lyrics_monstres %}
 <div class="lyrics">
-<quote>
+<blockquote>
 <p>En sòn cap era net s’a posat<br/>
 Non vò tornar a veir era lum deth dia<br/>
 Damb que vedec era cara amarga des umans<br/>
@@ -65,7 +65,7 @@ Que ja sabem, qu’auem viscut, qu’ei ben sabut<br/>
 Qu’a on i a poder tanben i a abús</p>
 
 <p>Van dera man, van dera man…<br/>
-Van dera man, van dera man!<p/>
+Van dera man, van dera man!</p>
 
 <p>S’an contagiat totes es classes de mès ensús<br/>
 E van violant e vulnerant es drets des qu'encara èm umans<br/>
@@ -92,7 +92,7 @@ E amen! Quan diden qu'auem eth poder enes mans<br/>
 Tant eth, com tu o aqueth</p>
 
 <p>E amen!</p>
-</quote>
+</blockquote>
 </div>
 {% endcapture %}
 {% include invidious.html vid="FdeYxEszK-M" footer=lyrics_monstres %}
