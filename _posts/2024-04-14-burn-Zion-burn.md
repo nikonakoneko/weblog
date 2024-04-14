@@ -11,7 +11,7 @@ category:
 ---
 
 They wanted a King to rule over them; They have been warned against; Still, they
-wanted a Ruler like others nations. A King was given them.
+wanted a Ruler like the other nations. So, a King was given them.
 
 Then, their Leader made them idolater the flag of Zion; for the flag they were
 brought to fight like beasts; So they lost their humanity as they forgot the
