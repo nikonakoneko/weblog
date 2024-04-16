@@ -2,6 +2,9 @@
 <link type="application/atom+xml" rel="alternate" href="{{ site.urli }}/feed/atom-all.xml" title="Feline Bureau of Investigation log — all posts"/>
 
 {% include head-custom-theme-colors.html %}
+<!--
+    TODO: please, use _sass/…
+-->
 <style>
 body { text-align: justify }
 .embed-container {
@@ -42,5 +45,17 @@ figcaption {
 
 #main_content hr:after {
     content: "⁂"
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-variant-caps: small-caps;
+    font-variant-ligatures: common-ligatures discretionary-ligatures
+        historical-ligatures contextual;
+    font-family: Serif;
+    text-align: left;
+}
+
+#main_content p {
+    font-family: "Sans Serif"
 }
 </style>
