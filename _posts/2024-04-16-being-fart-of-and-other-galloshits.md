@@ -6,7 +6,7 @@ category:
 - random
 tags:
 - caca
-- catalan
+- català
 - français
 ---
 
